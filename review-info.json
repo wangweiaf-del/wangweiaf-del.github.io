@@ -1,0 +1,172 @@
+{
+  "kind": "public-synthetic-interface-review",
+  "version": "public-review-20261028-1",
+  "sourceUiRelease": "20261027-feedback-showcase-1",
+  "publishedDate": "2026-10-28",
+  "products": [
+    "少邻国",
+    "学习助手"
+  ],
+  "accountConnection": false,
+  "modelCalls": false,
+  "realAssetOperations": false,
+  "exampleDataOnly": true,
+  "features": [
+    "未检查只显示轻微灰蓝选中边框",
+    "答错1秒后手动继续",
+    "首页交易行入口",
+    "商城、仓库和开箱动画预览",
+    "可退出的极光/蓝调高阶展示预览"
+  ],
+  "notAvailable": [
+    "真实跨账号交易",
+    "真实新账号注册",
+    "新增高阶等级与对应抽奖规则"
+  ],
+  "catalog": [
+    {
+      "id": "blue-cadet",
+      "name": "蓝星见习员",
+      "rarity": "普通",
+      "effect": "免费基础套装，陪你开启学习之旅。",
+      "permanent": true,
+      "ready": true
+    },
+    {
+      "id": "night-navigator",
+      "name": "星夜领航员",
+      "rarity": "稀有",
+      "effect": "星夜服装和披风，短入场光圈及连对三题时的短击掌。",
+      "permanent": true,
+      "ready": true
+    },
+    {
+      "id": "aurora-explorer",
+      "name": "极光探险家",
+      "rarity": "超稀有",
+      "effect": "极光服装、短极光入场及累计十道有效题后的结算庆祝；不包含天空主题。",
+      "permanent": true,
+      "ready": true
+    },
+    {
+      "id": "crescent-hat",
+      "name": "月牙帽",
+      "rarity": "普通",
+      "effect": "佩戴月牙帽，可与蓝星见习员或星夜领航员搭配。",
+      "permanent": true,
+      "ready": true
+    },
+    {
+      "id": "comet-goggles",
+      "name": "彗星护目镜",
+      "rarity": "稀有",
+      "effect": "佩戴彗星护目镜，入场时镜片短暂流光。",
+      "permanent": true,
+      "ready": true
+    },
+    {
+      "id": "mint-robot",
+      "name": "薄荷机器人",
+      "rarity": "普通",
+      "effect": "大厅和学习助手使用清新的薄荷涂装。",
+      "permanent": true,
+      "ready": true
+    },
+    {
+      "id": "bronze-robot",
+      "name": "铜星机器人",
+      "rarity": "稀有",
+      "effect": "大厅和助手使用铜星材质、星形装饰及短表情变化。",
+      "permanent": true,
+      "ready": true
+    },
+    {
+      "id": "high-five",
+      "name": "击掌动作",
+      "rarity": "普通",
+      "effect": "点击大厅伙伴或结算时短暂击掌，不遮挡答题。",
+      "permanent": true,
+      "ready": true
+    },
+    {
+      "id": "orbit-dance",
+      "name": "环星舞步",
+      "rarity": "稀有",
+      "effect": "大厅预览及结算时播放短舞步，答题时保持安静。",
+      "permanent": true,
+      "ready": true
+    },
+    {
+      "id": "aurora-salute",
+      "name": "极光致意",
+      "rarity": "超稀有",
+      "effect": "大厅预览及结算时播放短致意动作和极光。",
+      "permanent": true,
+      "ready": true
+    },
+    {
+      "id": "blue-hour",
+      "name": "蓝调时刻",
+      "rarity": "稀有",
+      "effect": "把大厅天空换为安静蓝调，答题背景保持米白。",
+      "permanent": true,
+      "ready": true
+    },
+    {
+      "id": "quiet-aurora",
+      "name": "宁静极光",
+      "rarity": "超稀有",
+      "effect": "把大厅天空换为宁静极光，不覆盖学习题目。",
+      "permanent": true,
+      "ready": true
+    },
+    {
+      "id": "star-lamp",
+      "name": "星星路灯",
+      "rarity": "普通",
+      "effect": "在大厅岛屿上放置一盏星星路灯。",
+      "permanent": true,
+      "ready": true
+    },
+    {
+      "id": "observatory",
+      "name": "小小天文台",
+      "rarity": "稀有",
+      "effect": "在大厅岛屿上建造一座小天文台。",
+      "permanent": true,
+      "ready": true
+    },
+    {
+      "id": "aurora-trial",
+      "name": "极光体验卡",
+      "rarity": "普通",
+      "effect": "体验极光套装三个有效完成小节；退出、失败不扣次数，主动切回永久装备可暂停。",
+      "permanent": false,
+      "ready": true
+    },
+    {
+      "id": "double-experience",
+      "name": "双倍经验卡",
+      "rarity": "普通",
+      "effect": "启用后下一次成功完成小节的基础经验翻倍，包括完成和首次独立答对；金币、任务、成就及活动经验不翻倍。",
+      "permanent": false,
+      "ready": true
+    },
+    {
+      "id": "appearance-upgrade",
+      "name": "星光外观升级券",
+      "rarity": "稀有",
+      "effect": "只升级白名单外观一个视觉阶段，不增加学习等级或稀有度。",
+      "permanent": false,
+      "ready": true
+    },
+    {
+      "id": "starlight-ticket",
+      "name": "星光抽奖券",
+      "rarity": "普通",
+      "effect": "每次正式抽卡消耗一张，不进入随机奖池。",
+      "permanent": false,
+      "ready": true
+    }
+  ]
+}
