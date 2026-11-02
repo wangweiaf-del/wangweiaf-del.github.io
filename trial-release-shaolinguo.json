@@ -3,12 +3,12 @@
   "variant": "shaolinguo",
   "page": "learn.html",
   "uiRelease": "20261102-learning-points-2",
-  "appFingerprint": "ffa471b181bbd2a6796c7ff4a930d9ffe9cf5bbf906bc2b216ca8b6063f83159",
+  "appFingerprint": "c2ec5de55a27085773edc29fa8ac7b5c43675a5fd376016be08aa574bfe32916",
   "trialSourceHash": "91da5306d6f295e0c2a59a973885f62dcdb7fe4a0e742c0e788bb90277a5c233",
   "privateAccountConnected": false,
   "rewardsEnabled": false,
   "persistentStorage": false,
   "source": "review/WebLearningTrial.tsx",
   "deployed": true,
-  "deployedAt": "2026-11-02T08:06:07.065064+00:00"
+  "deployedAt": "2026-11-02T08:12:37.781670+00:00"
 }
