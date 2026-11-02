@@ -4,16 +4,16 @@
     "learn.html",
     "assistant.html"
   ],
-  "uiRelease": "20261102-learning-open-1",
-  "appFingerprint": "b7a8dfd55cfe016088f6ceb8a8d8a2c8df34b3dcd6ca9e2169430ee5e69600f6",
+  "uiRelease": "20261102-learning-points-1",
+  "appFingerprint": "61155c26e8d77c88509a86bb43e2f64edce09ca0adc6260ccba3603053980bc8",
   "trialSourceHash": "91da5306d6f295e0c2a59a973885f62dcdb7fe4a0e742c0e788bb90277a5c233",
   "products": [
     {
       "type": "ephemeral-learning-trial",
       "variant": "shaolinguo",
       "page": "learn.html",
-      "uiRelease": "20261102-learning-open-1",
-      "appFingerprint": "b7a8dfd55cfe016088f6ceb8a8d8a2c8df34b3dcd6ca9e2169430ee5e69600f6",
+      "uiRelease": "20261102-learning-points-1",
+      "appFingerprint": "61155c26e8d77c88509a86bb43e2f64edce09ca0adc6260ccba3603053980bc8",
       "trialSourceHash": "91da5306d6f295e0c2a59a973885f62dcdb7fe4a0e742c0e788bb90277a5c233",
       "privateAccountConnected": false,
       "rewardsEnabled": false,
@@ -24,8 +24,8 @@
       "type": "ephemeral-learning-trial",
       "variant": "assistant",
       "page": "assistant.html",
-      "uiRelease": "20261102-learning-open-1",
-      "appFingerprint": "b7a8dfd55cfe016088f6ceb8a8d8a2c8df34b3dcd6ca9e2169430ee5e69600f6",
+      "uiRelease": "20261102-learning-points-1",
+      "appFingerprint": "61155c26e8d77c88509a86bb43e2f64edce09ca0adc6260ccba3603053980bc8",
       "trialSourceHash": "91da5306d6f295e0c2a59a973885f62dcdb7fe4a0e742c0e788bb90277a5c233",
       "privateAccountConnected": false,
       "rewardsEnabled": false,
@@ -38,5 +38,5 @@
   "persistentStorage": false,
   "source": "review/WebLearningTrial.tsx",
   "deployed": true,
-  "deployedAt": "2026-11-02T02:52:37.283521+00:00"
+  "deployedAt": "2026-11-02T08:01:40.498877+00:00"
 }
