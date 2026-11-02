@@ -2,13 +2,13 @@
   "type": "ephemeral-learning-trial",
   "variant": "assistant",
   "page": "assistant.html",
-  "uiRelease": "20261102-learning-points-1",
-  "appFingerprint": "61155c26e8d77c88509a86bb43e2f64edce09ca0adc6260ccba3603053980bc8",
+  "uiRelease": "20261102-learning-points-2",
+  "appFingerprint": "ffa471b181bbd2a6796c7ff4a930d9ffe9cf5bbf906bc2b216ca8b6063f83159",
   "trialSourceHash": "91da5306d6f295e0c2a59a973885f62dcdb7fe4a0e742c0e788bb90277a5c233",
   "privateAccountConnected": false,
   "rewardsEnabled": false,
   "persistentStorage": false,
   "source": "review/WebLearningTrial.tsx",
   "deployed": true,
-  "deployedAt": "2026-11-02T08:01:40.499784+00:00"
+  "deployedAt": "2026-11-02T08:06:07.065154+00:00"
 }
