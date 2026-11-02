@@ -4,11 +4,11 @@
   "page": "assistant.html",
   "uiRelease": "20261102-companion-unified-1",
   "appFingerprint": "60d3d73b9ecd6a4db15df217f9b96cdbc6728475339d799d7845f8ad87776884",
-  "trialSourceHash": "76f7976b87ff809b39e82e965555afcd880b201072b7f131185c11b002a14c86",
+  "trialSourceHash": "8e1a21e7f1836dabbacc086cf27963709dd8197c873074be431164434c5d0372",
   "privateAccountConnected": false,
   "rewardsEnabled": false,
   "persistentStorage": false,
   "source": "review/WebLearningTrial.tsx",
   "deployed": true,
-  "deployedAt": "2026-11-02T09:39:26.690687+00:00"
+  "deployedAt": "2026-11-02T09:46:39.972250+00:00"
 }
